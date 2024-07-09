@@ -1,0 +1,6 @@
+Step 1: How to redeem the API key
+https://platform.openai.com/docs/overview
+Dashboard > API keys
+
+Step 2: Set up your API key (MacOS or Windows)
+https://platform.openai.com/docs/quickstart
