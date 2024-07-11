@@ -4,3 +4,6 @@ Dashboard > API keys
 
 Step 2: Set up your API key (MacOS or Windows)
 https://platform.openai.com/docs/quickstart
+
+container docker:
+docker build --plataform linux/x86_64 -t travelagent .
